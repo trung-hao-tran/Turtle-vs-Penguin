@@ -7,7 +7,8 @@ Welcome to the COMP9517 Computer Vision Project repository! This project is part
 This project includes implementations of two prominent CNN architectures:
 
 1. **VGG16 from Scratch**: A detailed implementation of the VGG16 architecture, demonstrating the foundational concepts of CNNs.
-2. **EfficientNetV2**: An advanced, pre-trained model from ImageNet21k, showcasing state-of-the-art performance with efficient computation.
+2. **VGG16 from imageNet**: A pre-trained model of VGG16 architecture with custom output layers for both object classification and predict object bounding box
+3. **EfficientNetV2**: An advanced, pre-trained model from ImageNet21k, showcasing state-of-the-art performance with efficient computation.
 
 ## Project Structure
 
